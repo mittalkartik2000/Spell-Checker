@@ -33,6 +33,7 @@ int main()
 			cout << "You meant: " << correct << "?\n\n\n";
 		else
 			cout << "No correction suggestion\n\n\n";
+			break;
 	}
 	cin.get();
 	return 0;
